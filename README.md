@@ -24,6 +24,11 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ### Acknowledgements
 
+
+### credits
+
+<p>imageny - official vf proxy</p>
+
 * Credit to Cepstral for the original voices.
 * Credit to LAME for their MP3-encoding software.
 * Special thanks to ItsCrazyScout for going through the VoiceForge APK and finding the new API link, as well as being kind enough to host this program on his website to demonstrate an online, pre-configured version.
